@@ -1,0 +1,43 @@
+All tiles are 64px by 64px.
+Each tile is roughly equivalent to 150ft by 150ft
+
+Due to size constraints, most runways are scaled down in length.
+
+<----------- Airport Info --------------->
+
+Mercy Airport
+
+Map Dimensions: 
+	60 tiles width
+	20 tiles height
+
+In-game runway length:
+	35 tiles (5250 ft)
+
+Airport based on: 
+	King Shaka International Airport (KSIA)
+	Raleigh Durhman Airport (RDU)
+
+Fun Facts:
+	King Shaka International Airport is also called La Mercy airport, where the name for this airport is derived from.
+	The name of the airport also pays homage to Valve's Left 4 Dead, where the first campaign in the game is called "No Mercy" and players travel to "Mercy Hospital".
+	Interestingly enough, Left 4 Dead also featured an airport in another campaign titled "Blood Air"
+
+
+<----------- Airplane Info --------------->
+
+Boeing 737NG
+
+Real Life Airpalne based off of: 
+	Boeing 737-800 with winglets
+
+Wingspan: 
+	737-800: 117 feet (with winglets)
+	In-Game: 50px (~= 117 feet with winglets)
+
+Length:
+	737-800: 129 feet
+	In-Game: 56px (~= 131 feet)
+
+-------------------------------------------
+

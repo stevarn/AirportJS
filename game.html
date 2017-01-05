@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Airport</title>
+		
+	<script src="http://code.createjs.com/createjs-2013.12.12.min.js"></script>
+	<script src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
+	<script type="text/javascript" src="game/js/Main.js"></script>
+	<script type="text/javascript" src="game/js/GameManager.js"></script>
+	<script type="text/javascript" src="game/js/UIManager.js"></script>
+	<script type="text/javascript" src="game/js/GroundManager.js"></script>
+	<script type="text/javascript" src="game/js/BuildingManager.js"></script>
+	<script type="text/javascript" src="game/js/LevelManager.js"></script>
+	<script type="text/javascript" src="game/js/AirplaneManager.js"></script>
+	<script type="text/javascript" src="game/js/Airplane.js"></script>
+	<style>
+		#center {
+			margin-left: auto;
+			margin-right: auto;
+
+		}
+	</style>
+	
+</head>
+<body onload="init();" style="margin:0;">
+	<div id="" style="position:relative;">
+		<canvas id="bgCanvas" width="1024" height="600" style="border:1px solid #000000; z-index: 0; position:absolute;" tabindex='0'></canvas>
+		<canvas id="spriteCanvas" width="1024" height="600" style="border:1px solid #000000; z-index: 1; position:absolute;" tabindex='0'></canvas>
+		<canvas id="uiCanvas" width="1024" height="600" style="border:1px solid #000000; z-index: 2; position:absolute;" tabindex='0'></canvas>
+	</div>
+	<div align="center">
+		Use the control keys or WASD to move the camera! If game background is white try moving the camera or refreshing.
+	</div>
+</body>
+</html>
